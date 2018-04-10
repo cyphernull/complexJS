@@ -2,7 +2,7 @@
 
 complex computation in JS
 
-## How TO Use
+## How To Use
 
 ### import
 
