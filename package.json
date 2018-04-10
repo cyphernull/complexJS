@@ -1,0 +1,9 @@
+{
+  "name": "complex",
+  "version": "0.0.1",
+  "description": "complex computation in js",
+  "main": "index.js",
+  "author": "Eric Choo",
+  "license": "MIT",
+  "private": false
+}
