@@ -52,3 +52,9 @@ console.log(cpx1.divide(cpx2).mathForm()) // 0.48 + -0.14i
 ```
 console.log(cpx1.toAbs()) // 5
 ```
+
+### conjugate
+
+```
+console.log(cpx1.toConj().mathForm()) // 4 + -3i
+```
