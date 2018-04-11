@@ -1,9 +1,10 @@
 {
-  "name": "complex",
-  "version": "0.0.1",
+  "name": "cplxjs",
+  "version": "0.0.3",
   "description": "complex computation in js",
   "main": "index.js",
   "author": "Eric Choo",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "repository": "https://github.com/Voyager-One/complexJS"
 }

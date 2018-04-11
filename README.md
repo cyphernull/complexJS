@@ -7,7 +7,7 @@ complex computation in JS
 ### import
 
 ```
-const Complex = require('complex')
+const Complex = require('cplxjs')
 ```
 
 ### create a complex
