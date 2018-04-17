@@ -35,7 +35,7 @@ console.log(cpx1.plus(cpx2).mathForm()) // 10 + 11i
 console.log(cpx1.minus(cpx2).mathForm()) // -2 + -5i
 ```
 
-### complex times
+### complex mutiply
 
 ```
 console.log(cpx1.times(cpx2).mathForm()) // 0 + 50i
