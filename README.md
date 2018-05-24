@@ -58,3 +58,7 @@ console.log(cpx1.toAbs()) // 5
 ```
 console.log(cpx1.toConj().mathForm()) // 4 + -3i
 ```
+
+### What can it do
+
+the cplxjs lib is only a simple math libaray, however you can use it to apply many webgl fields, like caculating positions.

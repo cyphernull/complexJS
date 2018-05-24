@@ -1,10 +1,11 @@
 {
-  "name": "cplxjs",
-  "version": "0.0.3",
-  "description": "complex computation in js",
-  "main": "index.js",
-  "author": "Eric Choo",
-  "license": "MIT",
-  "private": false,
-  "repository": "https://github.com/Voyager-One/complexJS"
+    "name": "cplxjs",
+    "version": "0.0.5",
+    "description": "complex computation in js",
+    "main": "index.js",
+    "author": "Eric Choo",
+    "license": "MIT",
+    "private": false,
+    "repository": "https://github.com/Voyager-One/complexJS",
+    "keywords": ["complex", "webgl", "math"]
 }
